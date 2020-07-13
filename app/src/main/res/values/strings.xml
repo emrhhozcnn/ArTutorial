@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ArTutorial</string>
+
+    <string name="game_view_content_description">Game view</string>
+
+    <string name="main_load_asset_bundle">Load Asset Bundle</string>
+    <string name="main_load_asset_bundle_loading">Downloading Asset Bundle&#8230;</string>
+    <string name="main_load_asset_bundle_already_downloaded">The model has already cached!</string>
+    <string name="main_load_asset_bundle_exist">3D Model Assets Cached</string>
+
+    <string name="main_default_target_image_url">https://www.mdpi.com/machines/machines-07-00029/article_deploy/html/images/machines-07-00029-g025-550.jpg</string>
+
+    <string name="main_default_target_modal_url">https://github.com/emrhhozcnn/ArTutorial/blob/master/myassetbundle-dragon?raw=true</string>
+
+    <string name="main_load_asset_bundle_success">Asset bundle is cached successfully.</string>
+    <string name="main_load_asset_bundle_fail">Error occurred as caching. The url may be invalid!</string>
+</resources>
